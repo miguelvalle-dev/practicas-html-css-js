@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+    display: flex;
+    grid-template-columns: 1fr 5fr 2fr;   
+    padding: 0px 20px;
+    
+}
+li {
+    display: inline-block;
+    position: relative;
+    font-family: sans-serif;
+   
+    cursor: pointer;
+    gap: 10px;
+    
+}
+.ofresemos {
+   padding: 0px 10px;
+  
+  
+}
+input {
+    background-color: #ECEFF1;
+    width:120px;
+    height: 32px;
+    padding: 0px 35px 0px 10px;
+    border: 0px;
+} 
+.adidas-ofresemos{
+    display: flex;
+    
+}
+li a {
+    text-decoration: none;
+}
+.parrafo{
+    display: flex;
+    justify-content: center;
+    padding: 0px 16px;
+    font-weight: bold;
+}
+.equipos-futbol{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0px 10px;
+    gap: 8px 16px;
+    
+}
+.equipos-futbol img {
+    width: 58px; 
+   
+}
+nav {  
+   margin: 0px 10px;
+}
+.futbol {
+   padding: 20.2344px 0px;
+   display: grid;
+   row-gap: 8px;
+}
+.encuentra{
+    padding: 20.2344px 0px;
+   
+}
+.equipo {
+    display: flex;
+    justify-content: center;
+    padding: 0px 10px;
+    font-weight: bold;
+}
+.futbol-2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0px 10px;
+    gap: 8px 16px;
+}
+.futbol-2 img{
+    width: 58px;
+    row-gap: 8px;
+}
+.nada {
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 64px;
+}
+.encuentra {
+    display: grid;
+    row-gap: 8px;
+
+}
+.lokks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0PX 0PX 30PX;
+    padding: 0PX 4PX;
+    align-items: end;
+}
+.unicos {
+    margin-left: 60px;
+    margin-right: 60px;
+}   
+.inspirate {
+    margin-top: 5px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.descubre {
+    color: #000;
+}
+.descubre:hover {
+    background-color: #000;
+    color: white;
+}
+.modelos {
+    display: flex;
+    flex-direction: row;
+    padding: 0px 64px;
+    gap: 10PX;
+}
+.modelos img {
+    width: 266px;
+    height: 466px;
+}
+.botones {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    padding-left: 64px; 
+    padding-right: 64px;   
+}
+.botones .button-1 {
+ width:95px ;
+ height:32px ;
+ padding: 0px 8px;
+}  
+.botones .button-2 {
+    width: 95px;
+    height: 32px;
+    padding: 0px 8px;
+}
+.botones .button-3 {
+    width: 161px;
+    height: 32px;
+    padding: 0px 8px;
+}
+.img {
+   
+    width: 100%;
+    height: 33rem;
+    background-image: url(img/adidas1.JPG);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    
+    
+}
+button {
+   padding: 17px;
+   border: 5px dashed #000;
+    box-shadow: 0 0 40px 0 #fff;
+    background-color: #ffffff;  
+}
+.button-lik {
+ padding-top:160px ;
+ padding-left: 17px;   
+}
+.button-lik button a {
+    text-decoration: none;
+    font-size: 22px;
+    color: #000;
+}

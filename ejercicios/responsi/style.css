@@ -1,0 +1,58 @@
+body {
+   
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FBEEE6 ;
+}
+
+      
+
+.box-full {
+    box-sizing: border-box;
+    background-image: url(https://blog.ggboost.com/bl-content/uploads/pages/611da07149c72c62d210bf46083c8752/valorant-kayo-rework-2.webp) ;
+    background-size:cover ;
+    background-position: top;  
+    background-attachment: fixed;
+    height: 400px;
+    padding: 25px;    
+   box-shadow: 0 0 40PX 0 #48E;  
+   font-style:400px;
+}
+.valorat-2 {
+    
+}
+h1 {
+    color: rgb(209,27,60);
+}
+.valorat {
+   background-color: black;
+   color: #fff;
+}    
+button {
+    
+    background-color: #ff4655;
+    width: 190px;
+    height: 77px;
+   box-shadow: 0 0 40px 0 #fff;
+}
+a {
+    
+    text-decoration: none;
+    font-size: 30px;
+    color:#fff;
+}
+.gekko {
+    color: rgb(209,27,60);
+}
+img {
+    width: 100px;
+    filter: drop-shadow(0px 0px 3px #fff);
+}
+.yoru {
+    text-align: center;
+}
+
+
+   
+
+
+

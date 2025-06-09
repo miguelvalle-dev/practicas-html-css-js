@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rowdies:wght@300;400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.h-75-mr-3 img{
+    width: 115px;
+    height: 91px;
+    object-fit: contain;
+    margin: 0 16px 0 0;
+}
+.encavesado {
+    display: flex;
+    flex-direction: row;
+   padding: 24px 15px;
+   margin: 0px 43px;
+   
+    padding: 24px 0;
+    
+}
+header li {
+     display: inline-block;
+}header a {
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-family: "Lilita One", sans-serif;
+    box-sizing: border-box;
+    line-height: 1.2;    
+    font-style: normal;
+}
+.im-12 img {
+    width: 62px;
+    height: 121px;
+    object-fit: contain;
+   margin: 0 16PX 0 0;   
+}
+.encavesado nav {
+    padding: 0 20px;
+    margin-top: 19px;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+.panchocavero-logo {
+    padding: 0 15px;
+}
+.encavesado a {
+    margin: 0 8px 0 0;
+}
+header a:hover{
+    color: #17A2B8;
+} 
+.panchocavero-logo img {
+     object-fit: contain;
+}   
+/*nav 2*/
+.nav {
+    text-transform: uppercase !important;
+    font-size: 14px;
+    font-weight: 700;
+    background-color: #17A2B8;
+    padding: 24px 16px;    
+}
+
+.nav a {
+    background-color: #17A2B8;
+    padding: 24px 16px;
+    color: white;
+    font-family: 'Oswald', sans-serif
+}
+nav .fear {
+    background-color: #374f60;
+    color: white ;
+   padding: 24px 16px;
+}
+nav .neutral {
+    background-color: #28a745;
+}
+.perro {
+  width: 100%;
+  height: 38em;
+  box-sizing: border-box;
+  background-image: url(img/perro.jpg);
+  padding: 200px 0;
+    background-size: cover;
+  background-position: center; 
+}
+.nav  :hover {
+   background-color: rgba(255, 255, 255, 0.);
+}
+.perro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.perro h1 { 
+     font-family: "Anton", sans-serif;
+  font-weight: 400;
+    width: 450px;
+    height: 198px;
+    font-size: 60px;
+    transform: perspective(2500px) rotateX(0);
+    color: #374F60;
+}
+.h1-pr{
+    padding: 0 20px;
+}
+.img-certified{
+    padding: 0 20px;
+    width: 240px;
+    height: 198px;
+}
+.img-certified img {
+    width: 110%;
+}
+/*article*/
+.article img{
+    width: 277px;
+    height: 277px;
+}
+.article {
+    display: flex;
+    margin: 0 26px;
+    padding: 48px 15px;
+}
+p {
+    margin:0 0 8px 0  ;
+    text-align: right;
+    opacity: 1;
+    transform: translateZ(0);
+    color: #374F60;
+    font-family: 'Raleway', sans-serif;
+}
+.parrafo {
+    padding: 0 15px;
+}
+.img-mujer {
+    padding: 0 15px;
+}
+samp {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+/*aside*/
+aside img {
+   width: 266px;
+   height: 266px;
+}
+.img-28 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.img-3 img{
+  
+    
+}
+aside {
+    background-color: #374F60;
+   
+}
+.parrafo-7 {
+    margin: 0 0 26px;  
+}
+.img-2 img{
+    margin: 0 35 16px;
+}
+
+
+.todo {
+  padding: 0 15px;
+  margin: 0 26px;
+}
+.parrafo-77 {
+    color: white;
+    text-align: center;
+}
