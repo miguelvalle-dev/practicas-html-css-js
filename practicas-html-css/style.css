@@ -1,0 +1,140 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;
+}
+.img-lucha{
+    background-image: url(https://www.eluniversal.com.mx/resizer/v2/LQLIBVQ6XVC2HGH6DFA2XUSX6Y.jpg?auth=37f4162fdf043805c2f2c8d63f07d5a29a4a5fcf0a42e07908254b3b5a4522ad&smart=true&width=1100&height=666);
+    width: 100%;
+    height: 50rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}   
+ul{
+    text-align: center;
+    text-transform: uppercase;
+    list-style: none;  
+    margin: 200px 100px 10px 100px; 
+    font-size: 30px;
+    font-family:"Lilita One", sans-serif; 
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 30px;
+    padding: 9px;
+}
+
+.nav__iten li {
+    display: inline-block; 
+}
+
+.img-lucha img {
+    width:110px;
+    height:100px;
+    padding-left: 10px ;
+    padding-top: 10px;
+}
+ul a {
+    text-decoration: none;
+    margin: 0 29px 0 29px;
+    color: #FFF5;
+}
+ul  :hover{
+    background-color: #e4bead;
+    border-radius: 26px;
+    color: #FFF;
+    padding: 2px;
+}
+.la_lucha_k {
+    text-align: center;
+    padding: 30px 0 10px 0;
+    display: grid;
+    row-gap: 10px;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #fff8;  
+}
+/*segunda parte*/   
+video {
+    width: 100%;
+    
+}
+.img-video {
+    display: flex;
+    padding: 10px 0 0 0;
+}
+.img_v2 {
+     display: flex;
+    padding: 10px 0 0 0;
+}
+.img-video img , .img_v2 img {
+    width: 270px;
+    height: 405px;
+    display: grid;
+    row-gap: 20px;   
+}
+
+.video__imagen {
+    background-color: #000;
+}
+.img-video  {
+   justify-content: center;
+   
+   
+}
+.img_v2 {
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.texto {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 100vh;  
+}
+h2 { 
+    margin-left: 140px;
+    padding-left: 40px;  
+    text-transform: uppercase;
+    font-size: 31px;
+    font-family:  "True North Black", Sans-serif;;
+}
+.peon img {
+    object-fit: contain;
+    padding-top: 90px;
+    width: 237px;
+    height: 260px;
+}
+.sonrisa-3 {
+    display: flex;
+    padding: 0 10px 0 10px;
+    justify-content: center;
+   gap: 30px;
+}
+.img-3 img {
+   width: 313px;
+   height: 388px;
+}
+ .img__44 {
+    position: relative;
+    top: -200px;  
+    left: 47%;
+    width: 208px;
+    height: 209px;
+}
+h3 {
+    font-size: 20px;
+    font-weight: 400px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+.img__h3 {
+    padding-left: 40px;
+    
+}
+.img_amabilidad {
+    padding: 59px 0 29px 0;
+     width: 154px;
+}
